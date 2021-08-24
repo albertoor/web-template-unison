@@ -1,0 +1,41 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 2rem;
+  font-size: 32px;
+}
+
+.home-section > a {
+  color: #ffff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.home-section > a:hover {
+  color: #848484;
+}
+.home-section > a > img {
+  margin-left: 0.5rem;
+}
+
+.nav-sites {
+  display: flex;
+}
+
+.nav-sites > ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.nav-sites > ul > li > a {
+  text-decoration: none;
+  color: #ffff;
+  margin-right: 1rem;
+}
+.nav-sites > ul > li > a:hover {
+  color: #848484;
+}
+
+.current-site {
+  text-decoration: underline;
+}
