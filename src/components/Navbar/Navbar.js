@@ -29,8 +29,12 @@ export default function Navbar() {
           </li>
 
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              Firebase
+            <a
+              href="https://albertoornelasdev.stackblitz.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              StackBlitz
             </a>
           </li>
           <li>
