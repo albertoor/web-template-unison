@@ -10,12 +10,20 @@ export default function Navbar() {
       <div class="nav-sites">
         <ul>
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://albertoornelasdev.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Heroku
             </a>
           </li>
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://albertoornelasdev.000webhostapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               000webhost
             </a>
           </li>
@@ -26,7 +34,11 @@ export default function Navbar() {
             </a>
           </li>
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://my-site.aornelasdev.repl.co"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Replit
             </a>
           </li>
