@@ -17,7 +17,7 @@ export default function Info() {
       <div className="text">
         <p>Hello, Good to see you 👀.</p>
         <p>
-          I'm Alberto Ornelas, I like Hip-hop Music and I like learn about
+          I'm Alberto Ornelas, I like Hip-hop Music and I like to learn about
           technology.
         </p>
         <p>I want to become a Full-Stack Web developer and I'm on it.</p>
