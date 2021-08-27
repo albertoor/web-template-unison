@@ -9,7 +9,7 @@ export default function Navbar() {
       </div>
       <div class="nav-sites">
         <ul>
-          <li class="current-site">
+          <li>
             <a href="#" target="_blank" rel="noopener noreferrer">
               Heroku
             </a>

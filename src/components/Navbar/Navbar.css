@@ -20,6 +20,7 @@
 
 .nav-sites {
   display: flex;
+  margin-top: 1rem;
 }
 
 .nav-sites > ul {
@@ -34,10 +35,6 @@
 }
 .nav-sites > ul > li > a:hover {
   color: #848484;
-}
-
-.current-site {
-  text-decoration: underline;
 }
 
 /* Responsive */
