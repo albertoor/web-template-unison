@@ -6,7 +6,7 @@ export default function Footer() {
 
   return (
     <footer>
-      <small>&copy; Copyright {currentYear}, Albert Ornelas</small>
+      <small>&copy; Copyright {currentYear}, Alberto Ornelas</small>
     </footer>
   );
 }
