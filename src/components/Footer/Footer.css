@@ -2,3 +2,10 @@ footer {
   margin-left: 1rem;
   color: #ffff;
 }
+
+/* Responsive */
+@media (max-width: 825px) {
+  footer {
+    text-align: center;
+  }
+}
